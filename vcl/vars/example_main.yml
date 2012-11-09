@@ -2,12 +2,12 @@
 #
 # secrets.php variables
 #
-vclhost: localhost
-vcldb: vcl
-vclusername: vcluser
-vcluserpassword: CHANGEME
-pemkey: CHANGEME 
-cryptkey: CHANGEME 
+v_vclhost: localhost
+v_vcldb: vcl
+v_vclusername: vcluser
+v_vcluserpassword: CHANGEME
+v_pemkey: CHANGEME 
+v_cryptkey: CHANGEME 
 
 #
 # conf.php variables
